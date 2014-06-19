@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+The tor network is a network where you cant get tracked by the government or any other bodies of surveilance, meaning you have anomynity.
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+The benefits of such a network would be the use of social media for childeren, not knowing anything about each other 
 ```
