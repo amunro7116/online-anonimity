@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-The benefits of such a network would be the use of social media for childeren, not knowing anything about each other 
+The benefits of such a network would be the use of social media for childeren, not knowing anything about each other. Ifyou wanted to talk about anything in a country where the media is closely watched by officials you can do so without any hitches. This also applies for countries in crisis. Like Iraq.
 ```
